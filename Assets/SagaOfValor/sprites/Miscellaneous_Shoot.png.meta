@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 917a4baeac5fda54eb7d07f75f038300
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bullet1
+    21300002: Bullet2
+    21300004: Bullet3
+    21300006: Bullet3
+    21300008: Bullet4
+    21300010: Bullet5
+    21300012: Bullet6
+    21300014: Bullet7
+    21300016: Bullet8
+    21300018: Bullet9
+    21300020: Bullet10
+    21300022: Bullet11
+    21300024: Bullet12
+    21300026: Bullet13
+    21300028: Bullet14
+    21300030: Bullet15
+    21300032: Miscellaneous_Shoot_16
+    21300034: Miscellaneous_Shoot_17
+    21300036: Miscellaneous_Shoot_18
+    21300038: Miscellaneous_Shoot_19
+    21300040: Miscellaneous_Shoot_20
+    21300042: Miscellaneous_Shoot_21
+    21300044: Miscellaneous_Shoot_22
+    21300046: Miscellaneous_Shoot_23
+    21300048: Miscellaneous_Shoot_24
+    21300050: Miscellaneous_Shoot_25
+    21300052: Miscellaneous_Shoot_26
+    21300054: Miscellaneous_Shoot_27
+    21300056: Miscellaneous_Shoot_28
+    21300058: Miscellaneous_Shoot_29
+    21300060: Miscellaneous_Shoot_30
+    21300062: Miscellaneous_Shoot_31
+    21300064: Miscellaneous_Shoot_32
+    21300066: Miscellaneous_Shoot_33
+    21300068: Miscellaneous_Shoot_34
+    21300070: Miscellaneous_Shoot_35
+    21300072: Miscellaneous_Shoot_36
+    21300074: Miscellaneous_Shoot_37
+    21300076: Miscellaneous_Shoot_38
+    21300078: Miscellaneous_Shoot_39
+    21300080: Miscellaneous_Shoot_40
+    21300082: Miscellaneous_Shoot_41
+    21300084: Miscellaneous_Shoot_42
+    21300086: Burst_1
+    21300088: Burst_2
+    21300090: Burst_3
+    21300092: Burst_4
+    21300094: Burst_5
+    21300096: Burst_6
+    21300098: Burst_7
+    21300100: Miscellaneous_Shoot_50
+    21300102: Miscellaneous_Shoot_51
+    21300104: Miscellaneous_Shoot_52
+    21300106: Miscellaneous_Shoot_53
+    21300108: Miscellaneous_Shoot_54
+    21300110: Miscellaneous_Shoot_55
+    21300112: Miscellaneous_Shoot_56
+    21300114: Miscellaneous_Shoot_57
+    21300116: Miscellaneous_Shoot_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bullet1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 583
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 583
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 583
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 582
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 580
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 587
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 572
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 572
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 572
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet9
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 572
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 468
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 466
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 468
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 466
+        width: 89
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 464
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bullet15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 462
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 434
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_17
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 435
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_18
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 435
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 331
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 358
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_21
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 331
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_22
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 358
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 231
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 288
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 285
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 306
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 294
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 231
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_29
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 288
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_30
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 285
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_31
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 306
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_32
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 294
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 280
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 235
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_35
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 280
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_36
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 235
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 259
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 259
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 219
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_40
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 218
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 219
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Miscellaneous_Shoot_42
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 218
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 184
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 189
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 4
+        width: 168
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_6
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 12
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burst_7
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 33
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

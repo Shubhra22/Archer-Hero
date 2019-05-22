@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="65. Saga Of Valor.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="JMO Assets" t="Include">
+          <e p="Cartoon FX" t="Include">
+            <e p="Shaders (Mobile)" t="Include">
+              <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MissionManager.cs" t="Include" />
+        <e p="PrincessAndtheRose" t="Include">
+          <e p="Extra" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="bullet.cs" t="Include" />
+              <e p="cameraFollow.cs" t="Include" />
+              <e p="FinalScripts" t="Include">
+                <e p="cameraFollow.cs" t="Include" />
+                <e p="deathAnimation.cs" t="Include" />
+                <e p="enemyBullet.cs" t="Include" />
+                <e p="enemyHealth.cs" t="Include" />
+                <e p="EnemyHealthUI.cs" t="Include" />
+                <e p="floater.cs" t="Include" />
+                <e p="GUIRescaler.cs" t="Include" />
+                <e p="heartAdder.cs" t="Include" />
+                <e p="heartDrop.cs" t="Include" />
+                <e p="jumper.cs" t="Include" />
+                <e p="levelManager.cs" t="Include" />
+                <e p="menu.cs" t="Include" />
+                <e p="menuLoader.cs" t="Include" />
+                <e p="mobileGUI.cs" t="Include" />
+                <e p="mouseButton.cs" t="Include" />
+                <e p="musicManager.cs" t="Include" />
+                <e p="parallax.cs" t="Include" />
+                <e p="pauseManager.cs" t="Include" />
+                <e p="pickupWave.cs" t="Include" />
+                <e p="playerAnimator.cs" t="Include" />
+                <e p="playerControls.cs" t="Include" />
+                <e p="playerHealth.cs" t="Include" />
+                <e p="playerWeapons.cs" t="Include" />
+                <e p="shooter.cs" t="Include" />
+                <e p="textFader.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="jump.cs" t="Include" />
+            <e p="PlayerManager.cs" t="Include" />
+            <e p="PlayerMovementManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_65. Saga Of Valor.1813142483.00" t="ExcludeRecursive" />
+  </component>
+</project>

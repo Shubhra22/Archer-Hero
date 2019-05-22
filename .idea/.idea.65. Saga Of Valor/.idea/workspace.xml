@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b68f15e-4ccb-404d-aecd-0c568fb65e0d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-943178096">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1281" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1281" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MissionManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1428797528000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1428797528000" expanded="true" signature="90:336" ph="{...}" />
+                <marker date="1428797528000" expanded="true" signature="198:206" ph="{...}" />
+                <marker date="1428797528000" expanded="true" signature="261:334" ph="{...}" />
+                <marker date="1428797528000" expanded="true" signature="294:331" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/FinalScripts/floater.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+              <folding>
+                <marker date="1554517637065" expanded="false" signature="6:44" ph="..." />
+                <marker date="1554517637065" expanded="true" signature="83:2796" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="87:170" ph="/* public variables we use to make the floater characters ... */" />
+                <marker date="1554517637065" expanded="true" signature="835:1492" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="1324:1487" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="1393:1483" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="1511:2794" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="1731:1755" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="1775:1802" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="2020:2117" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="2149:2247" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="2350:2393" ph="{...}" />
+                <marker date="1554517637065" expanded="true" signature="2533:2791" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Scripts/AudioManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <marker date="1554517877784" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554517877784" expanded="true" signature="121:325" ph="{...}" />
+                <marker date="1554517877784" expanded="true" signature="193:244" ph="{...}" />
+                <marker date="1554517877784" expanded="true" signature="302:323" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../WordBrain_v1.0/Assets/WordGame/Scripts/MyCombo/RewardedVideoCallBack.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../AR/ARMultiplayer/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>takeDamage</find>
+      <find>Move</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../WordBrain_v1.0/Assets/WordGame/Scripts/MyCombo/RewardedVideoCallBack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/FinalScripts/floater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../AR/ARMultiplayer/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MissionManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/enemyBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/playerWeapons.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/enemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/EnemyHealthUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/playerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/floater.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/playerControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/FinalScripts/floater.cs" />
+        <option value="$PROJECT_DIR$/Assets/PrincessAndtheRose/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/../../WordBrain_v1.0/Assets/WordGame/Scripts/MyCombo/RewardedVideoCallBack.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="978" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b68f15e-4ccb-404d-aecd-0c568fb65e0d" name="Default Changelist" comment="" />
+      <created>1550093397191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550093397191</updated>
+      <workItem from="1550093401774" duration="10687000" />
+      <workItem from="1550266390246" duration="296000" />
+      <workItem from="1552195820139" duration="1854000" />
+      <workItem from="1554515052874" duration="1747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14584000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="978" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24908425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/GUIRescaler.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/playerWeapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" column="12" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/enemyBullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/shooter.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/EnemyHealthUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/heartAdder.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/playerHealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/mouseButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AR/ARMultiplayer/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/enemyHealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/playerControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="147" column="28" selection-start-line="147" selection-start-column="28" selection-end-line="147" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/CSharp/floater.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="65" column="101" lean-forward="true" selection-start-line="65" selection-start-column="101" selection-end-line="65" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MissionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1428797528000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1428797528000" expanded="true" signature="90:336" ph="{...}" />
+            <marker date="1428797528000" expanded="true" signature="198:206" ph="{...}" />
+            <marker date="1428797528000" expanded="true" signature="261:334" ph="{...}" />
+            <marker date="1428797528000" expanded="true" signature="294:331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Extra/Scripts/FinalScripts/floater.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+          <folding>
+            <marker date="1554517637065" expanded="false" signature="6:44" ph="..." />
+            <marker date="1554517637065" expanded="true" signature="83:2796" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="87:170" ph="/* public variables we use to make the floater characters ... */" />
+            <marker date="1554517637065" expanded="true" signature="835:1492" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="1324:1487" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="1393:1483" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="1511:2794" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="1731:1755" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="1775:1802" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="2020:2117" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="2149:2247" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="2350:2393" ph="{...}" />
+            <marker date="1554517637065" expanded="true" signature="2533:2791" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PrincessAndtheRose/Scripts/AudioManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1554517877784" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554517877784" expanded="true" signature="121:325" ph="{...}" />
+            <marker date="1554517877784" expanded="true" signature="193:244" ph="{...}" />
+            <marker date="1554517877784" expanded="true" signature="302:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../WordBrain_v1.0/Assets/WordGame/Scripts/MyCombo/RewardedVideoCallBack.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
