@@ -7,3 +7,4 @@
 4. 10 Level of game play.
 5. Diegetic UI to show player and enemy health
 6. Collectibles.
+7. Enemy AI
