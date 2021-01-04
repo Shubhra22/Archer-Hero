@@ -1,5 +1,5 @@
 # Archer-Hero
-2D platformer game using Unity.
+2D platformer game made using Unity.
 
 1. Player movements
 2. Mutliple Enemy types.
